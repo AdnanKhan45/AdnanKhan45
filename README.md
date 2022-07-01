@@ -28,7 +28,7 @@
 <br/>
 
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: Sometimes when finally I FIX the bug after spending a week I feel like I'm the GOD Developer util other GIANT bug arrives😁.
+- ⚡ Fun fact: Sometimes when finally I FIX the bug after spending a week I feel like I'm the GOD Developer until other GIANT bug arrives 😁.
 
 
 [![Twitter: Amir Khan](https://img.shields.io/twitter/follow/Adnan_Khan?style=social)](https://twitter.com/Adnan54M)
