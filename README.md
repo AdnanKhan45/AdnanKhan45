@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
 <h3 align="center">A Flutter & Dart enthusiast 💙</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_adnan54" target="blank"><img src="https://img.shields.io/twitter/follow/adnan54m?logo=twitter&style=for-the-badge" alt="adnan54m" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_adnan54" target="blank"><img src="https://img.shields.io/twitter/follow/dev_adnan54?logo=twitter&style=for-the-badge" alt="dev_adnan54" /></a> </p>
 
 - 🔭 I’m currently working on **YouTube & Projects at eTechViral**
 
